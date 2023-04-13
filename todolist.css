@@ -1,0 +1,14 @@
+.fm{
+    margin: auto;
+    width: 300px;
+    border: solid;
+    padding: 50px;
+    text-align: center;
+}
+.fmul{
+    padding-left: 70px;
+    text-align: left;
+}
+.red{
+    color: red;
+}
